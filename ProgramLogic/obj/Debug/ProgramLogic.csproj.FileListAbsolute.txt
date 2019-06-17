@@ -1,0 +1,5 @@
+C:\Users\Valentin\source\repos\HelloWorldApp\ProgramLogic\bin\Debug\ProgramLogic.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\ProgramLogic\bin\Debug\ProgramLogic.pdb
+C:\Users\Valentin\source\repos\HelloWorldApp\ProgramLogic\obj\Debug\ProgramLogic.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\HelloWorldApp\ProgramLogic\obj\Debug\ProgramLogic.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\ProgramLogic\obj\Debug\ProgramLogic.pdb

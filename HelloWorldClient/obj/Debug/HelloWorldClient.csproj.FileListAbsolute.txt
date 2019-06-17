@@ -1,0 +1,9 @@
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorldClient\bin\Debug\HelloWorldClient.exe
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorldClient\bin\Debug\HelloWorldClient.exe.config
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorldClient\bin\Debug\ProgramLogic.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorldClient\bin\Debug\ProgramLogic.pdb
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorldClient\obj\Debug\HelloWorldClient.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorldClient\obj\Debug\HelloWorldClient.exe
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorldClient\obj\Debug\HelloWorldClient.pdb
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorldClient\bin\Debug\HelloWorldClient.pdb
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorldClient\obj\Debug\HelloWorldClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\HelloWorld.UnitTests.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\HelloWorld.UnitTests.pdb
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\ProgramLogic.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\bin\Debug\ProgramLogic.pdb
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\obj\Debug\HelloWorld.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\obj\Debug\HelloWorld.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\obj\Debug\HelloWorld.UnitTests.dll
+C:\Users\Valentin\source\repos\HelloWorldApp\HelloWorld.UnitTests\obj\Debug\HelloWorld.UnitTests.pdb
